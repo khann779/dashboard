@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "icon": "bi bi-person-circle",
+      "content": "Profile"
+    },
+    {
+      "icon": "bi bi-cash",
+      "content": "My Wallet"
+    },
+    {
+      "icon": "bi bi-gear",
+      "content": "Settings"
+    },
+    {
+      "icon": "bi bi-box-arrow-right",
+      "content": "Logout"
+    }
+  ]
+}

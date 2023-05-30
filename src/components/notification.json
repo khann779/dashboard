@@ -1,0 +1,24 @@
+{
+  "notify": [
+    {
+      "icon": "bi bi-exclamation-triangle",
+      "content": "Curabitur id eros quis nunc suscipit blandit"
+    },
+    {
+      "icon": "bi bi-box-seam",
+      "content": "Duis malesuada justo eu sapien elementum"
+    },
+    {
+      "icon": "bi bi-cart3",
+      "content": "Donec at nisi sit amet tortor commodo"
+    },
+    {
+      "icon": "bi bi-exclamation-triangle",
+      "content": "In gravida mauris et nisi"
+    },
+    {
+      "icon": "bi bi-cart3",
+      "content": "Curabitur id eros quis nunc suscipit blandit"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+
+{
+  "card": [
+    {
+      "icon": "bi bi-bag",
+      "count": "1,995",
+      "title": "Total sales"
+    },
+    {
+      "icon": "bi bi-cart3",
+      "count": "2,001",
+      "title": "Daily visits"
+    },
+    {
+      "icon": "bi bi-coin",
+      "count": "$2,632",
+      "title": "Total income"
+    },
+    {
+      "icon": "bi bi-receipt",
+      "count": "1,711",
+      "title": "Total orders"
+    }
+  ]
+}
